@@ -10,10 +10,10 @@ import warnings
 import re
 
 import cooler
-from mirnylib.genome import Genome
-from mirnylib.numutils import  zoomArray, completeIC, observedOverExpected, coarsegrain, ultracorrect
-from mirnylib.h5dict import h5dict
-from mirnylib import genome
+#from mirnylib.genome import Genome
+#from mirnylib.numutils import  zoomArray, completeIC, observedOverExpected, coarsegrain, ultracorrect
+#from mirnylib.h5dict import h5dict
+#from mirnylib import genome
 import matplotlib
 import matplotlib.pyplot as plt
 try:

@@ -5,6 +5,7 @@ The code in this repository was used for the paper 'Transcription shapes 3D chro
 ## Dependencies
 
 https://github.com/mirnylab/openmm-polymer-legacy
+https://github.com/open2c/cooler
 
 ## Setup
 

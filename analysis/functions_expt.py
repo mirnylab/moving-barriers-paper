@@ -1,5 +1,3 @@
-#More to come...
-
 # Python functions used for analysis of experimental data
 
 import pandas as pd

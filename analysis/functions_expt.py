@@ -14,11 +14,6 @@ import cooler
 #from mirnylib import genome
 import matplotlib
 import matplotlib.pyplot as plt
-try:
-    from bioframe.tools import bedtools, tsv
-    print("using old version of bioframe")
-except ModuleNotFoundError:
-    from bioframe.util import bedtools, tsv
 import bioframe
 import math
 from scipy.linalg import toeplitz

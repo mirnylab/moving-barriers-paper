@@ -8,6 +8,8 @@ https://github.com/mirnylab/openmm-polymer-legacy
 
 https://github.com/open2c/cooler
 
+https://github.com/open2c/bioframe
+
 ## Setup
 
 Run setup.py to compile the cython (.pyx) files
